@@ -1,16 +1,13 @@
-# the_batman_app
+The Batman App with Flutter
+=======================
 
-A new Flutter project.
+Information interface on the new Batman movie that will premiere in 2021.
+There is no API consumption, just data ready to compose the screen ... I will still organize and make it more readable.
 
-## Getting Started
+Previews
+=======================
 
-This project is a starting point for a Flutter application.
+![](https://github.com/maickom88/the_batman_app_flutter/blob/master/screenshots/screen_1.png)
 
-A few resources to get you started if this is your first Flutter project:
+![](https://github.com/maickom88/the_batman_app_flutter/blob/master/screenshots/screen_2.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
